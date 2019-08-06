@@ -15,6 +15,6 @@ public class log {
         logger.info("log4j");
         logger.info("测试");
         logger.info("修改了");
-        //添加一个注释
+        logger.info("添加了");
     }
 }

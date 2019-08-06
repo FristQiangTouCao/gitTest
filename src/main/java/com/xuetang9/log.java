@@ -14,5 +14,7 @@ public class log {
         Logger logger = Logger.getLogger("log4j");
         logger.info("log4j");
         logger.info("测试");
+        logger.info("修改了");
+
     }
 }
